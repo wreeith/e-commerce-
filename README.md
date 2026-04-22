@@ -39,7 +39,8 @@
 
 ### Концентрация выручки (Pareto)
 
-[сюда картинка]
+<img width="692" height="470" alt="image" src="https://github.com/user-attachments/assets/ceb099d3-24fc-4d48-8de0-c947f724cb28" />
+
 
 Наблюдается выраженная концентрация выручки:
 - небольшая доля клиентов формирует значительную часть дохода
@@ -79,8 +80,7 @@
 
 ### Распределение клиентов
 
-![Uploading image.png…]()
-
+<img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/eb2c35d7-1fd1-4fdd-9459-ad56c46bcb3b" />
 
 - Loyal: 2220  
 - Lost: 1865  
@@ -91,8 +91,7 @@
 
 ### Выручка по сегментам
 
-![Uploading image.png…]()
-
+<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/d4a5d928-acfc-45bf-bebc-2b13248a5ed9" />
 
 - VIP: 10.7M  
 - Loyal: 5.6M  
@@ -105,7 +104,7 @@
 
 Проведён анализ удержания клиентов на основе месяца первой покупки.
 
-![Uploading image.png…]()
+<img width="1479" height="547" alt="image" src="https://github.com/user-attachments/assets/ba2f55fd-4ffd-4caf-b492-01a03a45358a" />
 
 
 ### Основные результаты
